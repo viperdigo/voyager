@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\FormFields;
+namespace Viperdigo\Voyager\FormFields;
 
 interface HandlerInterface
 {

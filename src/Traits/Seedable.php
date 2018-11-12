@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Traits;
+namespace Viperdigo\Voyager\Traits;
 
 trait Seedable
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Widgets;
+namespace Viperdigo\Voyager\Widgets;
 
 use Arrilot\Widgets\AbstractWidget;
 

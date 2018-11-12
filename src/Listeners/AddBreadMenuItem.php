@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Listeners;
+namespace Viperdigo\Voyager\Listeners;
 
 use TCG\Voyager\Events\BreadAdded;
 use TCG\Voyager\Facades\Voyager;

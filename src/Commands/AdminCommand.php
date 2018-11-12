@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Commands;
+namespace Viperdigo\Voyager\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Hash;

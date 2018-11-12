@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager;
+namespace Viperdigo\Voyager;
 
 use Illuminate\Contracts\Events\Dispatcher;
 use Illuminate\Database\Eloquent\Collection;

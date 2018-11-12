@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Tests\Unit\Actions;
+namespace Viperdigo\Voyager\Tests\Unit\Actions;
 
 use TCG\Voyager\Actions\AbstractAction;
 use TCG\Voyager\Facades\Voyager;

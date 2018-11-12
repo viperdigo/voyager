@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager;
+namespace Viperdigo\Voyager;
 
 use TCG\Voyager\Alert\Components\ComponentInterface;
 

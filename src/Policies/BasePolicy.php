@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Policies;
+namespace Viperdigo\Voyager\Policies;
 
 use Illuminate\Auth\Access\HandlesAuthorization;
 use TCG\Voyager\Contracts\User;

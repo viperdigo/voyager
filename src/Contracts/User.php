@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Contracts;
+namespace Viperdigo\Voyager\Contracts;
 
 interface User
 {

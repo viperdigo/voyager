@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Policies;
+namespace Viperdigo\Voyager\Policies;
 
 use TCG\Voyager\Contracts\User;
 use TCG\Voyager\Facades\Voyager;

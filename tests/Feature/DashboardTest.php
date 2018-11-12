@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Tests\Feature;
+namespace Viperdigo\Voyager\Tests\Feature;
 
 use Illuminate\Support\Facades\Auth;
 use TCG\Voyager\Facades\Voyager;

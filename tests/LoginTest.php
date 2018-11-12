@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Tests;
+namespace Viperdigo\Voyager\Tests;
 
 class LoginTest extends TestCase
 {

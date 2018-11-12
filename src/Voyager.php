@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager;
+namespace Viperdigo\Voyager;
 
 use Arrilot\Widgets\Facade as Widget;
 use Illuminate\Database\Eloquent\Collection;

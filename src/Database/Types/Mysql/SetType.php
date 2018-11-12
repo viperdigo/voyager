@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Database\Types\Mysql;
+namespace Viperdigo\Voyager\Database\Types\Mysql;
 
 use Doctrine\DBAL\Platforms\AbstractPlatform;
 use Illuminate\Support\Facades\DB;

@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Actions;
+namespace Viperdigo\Voyager\Actions;
 
 class DeleteAction extends AbstractAction
 {

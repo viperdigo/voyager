@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\FormFields\After;
+namespace Viperdigo\Voyager\FormFields\After;
 
 use TCG\Voyager\Traits\Renderable;
 

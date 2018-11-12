@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Http\Controllers\ContentTypes;
+namespace Viperdigo\Voyager\Http\Controllers\ContentTypes;
 
 class Checkbox extends BaseType
 {

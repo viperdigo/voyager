@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Tests;
+namespace Viperdigo\Voyager\Tests;
 
 use TCG\Voyager\Alert;
 use TCG\Voyager\Facades\Voyager;

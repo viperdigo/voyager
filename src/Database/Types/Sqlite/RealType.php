@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Database\Types\Sqlite;
+namespace Viperdigo\Voyager\Database\Types\Sqlite;
 
 use Doctrine\DBAL\Platforms\AbstractPlatform;
 use TCG\Voyager\Database\Types\Type;

@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Providers;
+namespace Viperdigo\Voyager\Providers;
 
 use Illuminate\Foundation\Support\Providers\EventServiceProvider as ServiceProvider;
 use Illuminate\Support\Facades\Event;

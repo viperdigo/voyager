@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Database\Types;
+namespace Viperdigo\Voyager\Database\Types;
 
 use Doctrine\DBAL\Platforms\AbstractPlatform as DoctrineAbstractPlatform;
 use Doctrine\DBAL\Types\Type as DoctrineType;

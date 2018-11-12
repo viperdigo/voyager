@@ -1,6 +1,6 @@
 <?php
 
-namespace TCG\Voyager\Database;
+namespace Viperdigo\Voyager\Database;
 
 use Doctrine\DBAL\Schema\Column;
 use Doctrine\DBAL\Schema\SchemaException;
